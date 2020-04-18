@@ -1,3 +1,6 @@
+<style>
+h5 {margin:0px; padding: 0px;}
+</style>
 
 ![logo banner](banner-2.png)
 
@@ -8,6 +11,9 @@ a blog about overthinking the overlooked & understanding the under-rated
 </i>
 </h3>
 
+##### hi there
+##### hi there
+##### hi there
 <hr>
 
 `src_box` is an experimental blog focussing on interesting ideas. While the topics discussed will likely fall on the more technical end of the spectrum, I want this medium to be a scratch pad for exploring many interesting ideas.
