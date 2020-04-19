@@ -1,55 +1,38 @@
+![](banner.png)
 
-![logo banner](banner-2.png)
+<p align="center">
+    <b><i>
+    a blog about overthinking the overlooked and exploring experimental ideas
+    </i></b>
+</p>
 
-
-<h3 style="text-align: center">
-<i>
-a blog about overthinking the overlooked & understanding the under-rated
-</i>
-</h3>
 
 <hr>
 
-`src_box` is an experimental blog focussing on interesting ideas. While the topics discussed will likely fall on the more technical end of the spectrum, I want this medium to be a scratch pad for exploring many interesting ideas.
+Welcome to `SRC_BOX`, my personal blog and experimental idea workbench. The idea behind this blog 
+really lies in a concept of using `Github` as a blogging platform for (but not limited to) technical topics.
+Since most technology, science and philosophy blogs online tend to share resources such as code, project examples, and other material, I thought it would be interesting to see if a collaboration between `Github` and
+a science journalism format could provide an interesting and useful way to blog.
 
-The idea of which is the blog's medium and format itself.
+Topics you can expect to find here will relate primarily to technology and programming, however also expect to 
+see art, graphic design, 3d modeling, music production, philosophy and other topics as well.
 
 <br>
 
-# Git for Blogging
-I've had the idea for a while now that `git` could be a great medium for blogging. It strays away from the standard format seen almost universally and has some intriguing abilities opening doors for extended uses in the blog format. 
+## How does this work?
+`SRC_BOX` uses `git` and `Github` to capitalize on two valuable aspects: __Continuous Content__ and ____ intended to be a living blog using a science journal format. Each year a new `Volume` will be started and throughout the year `Issues` will be added to the volume's directory. In addition each issue will correspond with a issue on the github issue board to allow for comments, suggestions, example discussion, ect.
 
-## The Format
-Posts will be written in [markdown](https://daringfireball.net/projects/markdown/syntax) as well as [jupyter notebooks](https://jupyter.org/). This will allow easy post writing with access to drop in raw html if need be as well as write out interactable posts that could be cloned by the reader and explored in their own environment. A side benefit with some git clients like `github` is the fact that markdown and jupyter notebooks are rendered on the site, making them nice to view for readers.
+For more details on what I'm calling, _Git Based Blogging_ see the first issue, [Github for Blogging](vol-1-2020/issue-1/post.md).
 
-Many technical blogs often attach extra files or project code and require the user to download compressed content or navigate to a location like github to view the code. the benefit of reading the blog on the repo means that the reader is already at the place where a large majority of source code and exmple files will reside. 
+<br>
 
-## Subscribable... Sort Of...
-Another interesting feature of `git` is the ability to `pull` and `checkout` source material. This allows a reader to asyncronously interact with the blog by pulling the blog repo and getting any updates that were made. This is not true subscription where a publisher sends updates to the subscriber, but still provides a way to instantly get "whats new" with a simple command (which could be automated to auto pull everyday).
+## Journal Volumes
+- [Volume 1 (2020)](vol-1/overview.md)
 
-## Living Content
-One of the most interesting aspects of `git` as a blogging medium to me is the fact that commits track any data that was changed and `git log` allows for viewing these changes in order.
-
-This means that if a post made today needs to be modified 2 years later, this content now shows up at the top of the `git log` again. The added benefit here is that it is not only updated and treated as a new post, but all the old content is available as well by `checkout <old commit>`. This is quite unique in comparison to standard blogs where a new post is ussually the approach to updating material.
-
-## Community Interaction
-In addition to updating posts rather then replacing it, github pull requests can be used to catalog new posts, thereby giving each post a unique page in the requests log. If posts take time to put together or involve research time, its also possible to use the `open` and `closed` aspects of pull requests to indicate what posts are "_in the works_" vs. which ones are published.
-
-Pull requests also allow for comments providing a way for posts to garner discussion.
-
-Likewise, the issue board can be used to discuss community questions, improvements to code examples, suggested topics and other use cases.
-
-The Pull Requests and Issues both utilize a `labels` system. These labels can be layed out as described below to better suite the repo to blogging.
-
-- `BlogPost` - primarily for pull requests that represent posts
-- `Question` - indicates an issue is a question
-- `Improvement` - when an improvement to some post or example could be made
-- `Suggestion` - indicates an issue is proposing a topic
-- `Bug` - indicates theres a bug in an example
-
-
-## So Thats It?
-Yep... pretty much. Disappointed? Intrigued? Want to go out and try this yourself? Either way, this is the idea that powers this blog project. Hope to see you again soon!
-
-
-<h5>Author: Robby Boney</h5>
+<br>
+<br>
+<hr>
+<h5>
+Author: <i>Robby Boney</i>
+</h5>
+<br>
