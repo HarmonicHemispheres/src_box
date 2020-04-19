@@ -20,7 +20,7 @@ see art, graphic design, 3d modeling, music production, philosophy and other top
 <br>
 
 ## How does this work?
-`SRC_BOX` uses `git` and `Github` to capitalize on two valuable aspects: __Continuous Content__ and ____ intended to be a living blog using a science journal format. Each year a new `Volume` will be started and throughout the year `Issues` will be added to the volume's directory. In addition each issue will correspond with a issue on the github issue board to allow for comments, suggestions, example discussion, ect.
+`SRC_BOX` uses `git` and `Github` to capitalize on two valuable aspects: __Continuous Content__ and __Repeatable Behavior__ intended to be a living blog using a science journal format. Each year a new `Volume` will be started and throughout the year `Issues` will be added to the volume's directory. In addition each issue will correspond with a issue on the github issue board to allow for comments, suggestions, example discussion, ect.
 
 For more details on what I'm calling, _Git Based Blogging_ see the first issue, [Github for Blogging](vol-1-2020/issue-1/post.md).
 
