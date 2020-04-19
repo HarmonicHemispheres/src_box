@@ -35,4 +35,3 @@ For more details on what I'm calling, _Git Based Blogging_ see the first issue, 
 <h5>
 Author: <i>Robby Boney</i>
 </h5>
-<br>
