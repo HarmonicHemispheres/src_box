@@ -33,5 +33,17 @@
 			"<br>"
 		],
 		"description": "describe your new post"
+	},
+
+	"post_section": {
+		"scope": "markdown",
+		"prefix": "post-sec",
+		"body": [
+			"<br>",
+			"",
+			"## $1",
+			"$2"
+		],
+		"description": "new section heading in a post"
 	}
 }
