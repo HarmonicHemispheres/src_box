@@ -6,8 +6,6 @@ The first iteration of the `SRC_BOX`. A `Git Based Blogging` project for technic
 ## Table of Contents
 1. [Blogging with Github](issue-1/post.md)
 
-
-
 <br>
 <br>
 <hr>
