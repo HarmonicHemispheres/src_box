@@ -32,11 +32,12 @@ For more details on what I'm calling, _Git Based Blogging_ see the first issue, 
 <br>
 
 
-## Featured Issues
+**Featured Issues**
 
 | | |
 |-|-|
-|[![](vol-1/issue-1/i1-banner.png)](vol-1/issue-1/post.md)|[![](csoon-banner.png)]()|
+|[![](vol-1/issue-1/i1-banner.png)](vol-1/issue-1/post.md)|[![](vol-1/issue-2/banner.png)](vol-1/issue-2/post.ipynb)|
+|[![](csoon-banner.png)]()|[![](csoon-banner.png)]()|
 | | |
 
 
