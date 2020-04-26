@@ -5,6 +5,7 @@ The first iteration of the `SRC_BOX`. A `Git Based Blogging` project for technic
 
 ## Table of Contents
 1. [Blogging with Github](issue-1/post.md)
+2. [Introduction to Julia](issue-2/post.ipynb)
 
 <br>
 <br>
