@@ -9,7 +9,6 @@ Vol: 1  |
 Iss: 2  |
 </h5>
 <br>
-<br>
 
 
 ## Installing Julia
