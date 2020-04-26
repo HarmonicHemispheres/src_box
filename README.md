@@ -6,13 +6,34 @@
     </i></b>
 </p>
 
-
 <hr>
+<br>
+<br>
+<br>
 
 
-<details>
-<summary><b>Quick Description</b></summary>
 
+**Featured Issues**
+
+| | |
+|-|-|
+|[![](vol-1/issue-1/i1-banner.png)](vol-1/issue-1/post.md) Blogging with Git|[![](vol-1/issue-2/banner.png)](vol-1/issue-2/post.ipynb)An Introduction to Julia|
+|[![](csoon-banner.png)]()|[![](csoon-banner.png)]()|
+| | |
+
+<br>
+<br>
+
+## Journal Volumes
+- [Volume 1 (2020)](vol-1/readme.md)
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Blog Description
 Welcome to `SRC_BOX`, my personal blog and experimental idea workbench. The idea behind this blog 
 really lies in a concept of using `Github` as a blogging platform for (but not limited to) technical topics.
 Since most technology, science and philosophy blogs online tend to share resources such as code, project examples, and other material, I thought it would be interesting to see if a collaboration between `Github` and
@@ -27,24 +48,6 @@ see art, graphic design, 3d modeling, music production, philosophy and other top
 
 For more details on what I'm calling, _Git Based Blogging_ see the first issue, [Github for Blogging](vol-1/issue-1/post.md).
 
-</details>
-
-<br>
-
-
-**Featured Issues**
-
-| | |
-|-|-|
-|[![](vol-1/issue-1/i1-banner.png)](vol-1/issue-1/post.md)|[![](vol-1/issue-2/banner.png)](vol-1/issue-2/post.ipynb)|
-|[![](csoon-banner.png)]()|[![](csoon-banner.png)]()|
-| | |
-
-
-## Journal Volumes
-- [Volume 1 (2020)](vol-1/readme.md)
-
-<br>
 <br>
 <hr>
 <h5>
